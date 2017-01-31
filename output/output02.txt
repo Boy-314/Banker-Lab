@@ -1,0 +1,9 @@
+FIFO:
+Task 1:		aborted
+Task 2:		5 1 20%
+Total:		5 1 20%
+
+BANKER'S:
+Task 1:		4 0 0%
+Task 2:		7 3 43%
+Total:		11 3 27%

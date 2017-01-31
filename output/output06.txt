@@ -1,0 +1,16 @@
+FIFO:
+Task 1:		aborted
+Task 2:		5 1 20%
+Task 3:		aborted
+Task 4:		9 5 56%
+Total:		14 6 43%
+
+
+Banker aborts: 3
+	Because claim 5 exceeds resources available 4
+BANKER'S:
+Task 1:		9 4 44%
+Task 2:		4 0 0%
+Task 3:		aborted
+Task 4:		7 3 43%
+Total:		20 7 35%

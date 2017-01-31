@@ -1,0 +1,20 @@
+BANKER'S ALGORITHM LAB
+
+A detailed description of the lab assignment can be found in banker_lab.pdf (this was the assignment handout given by the professor).
+
+One file: banker.cpp
+
+To run:
+$ gcc -o banker *.cpp
+$ banker [input filepath (e.g. input/input01.txt)]
+
+Output will be printed in the console.
+
+Input files are stored in the folder labelled input. I have also recorded my output from this program in the files stored in the folder labelled output. The output files are numbered according to their corresponding input file.
+
+
+
+NOTE: The answer key (my source for the input files included) for this assignment can be found at:
+
+http://cs.nyu.edu/courses/spring16/CSCI-UA.0202-001/labs/lab3/
+
